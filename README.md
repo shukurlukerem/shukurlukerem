@@ -19,11 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats
-![Karam's GitHub stats](https://github-readme-stats.vercel.app/api?username=karamshukurlu&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karamshukurlu&layout=compact)
 
 ---
 
-⭐️ From [Karam Shukurlu](https://github.com/karamshukurlu)
+⭐️ From [Karam Shukurlu](https://github.com/shukurlukerem)
