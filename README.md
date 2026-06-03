@@ -2,7 +2,7 @@
 
 💻 **Software Developer**
 
-🏢 Currently working at **Sabah.Hub** and **Azerbaijan Technical University**
+🏢 Currently working at **Sabah.HUB** and **Azerbaijan Technical University**
 
 ---
 
@@ -17,9 +17,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karamshukurlu/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karamshukurlu)
 
----
-
-
----
-
-⭐️ From [Karam Shukurlu](https://github.com/shukurlukerem)
